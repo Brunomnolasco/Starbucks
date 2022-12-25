@@ -5,4 +5,3 @@
 #### Landing Page desenvolvida para praticar HTML e CSS.
 
 ![logo](https://github.com/Brunomnolasco/Starbucks/blob/master/assets/toreadme/telapc.png)
-![logo](path/to/file)
